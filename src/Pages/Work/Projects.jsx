@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 // import Dtech from "./ProjectScreens/Dtech";
 // import Bucephalus from "./ProjectScreens/Bucephalus";
 import LetsConnect from "./LetsConnect";
-
+// jjjjjjjjjjjj
 export default function Projects() {
   // const [ref, inView] = useInView({
   //   threshold: 0.2,
